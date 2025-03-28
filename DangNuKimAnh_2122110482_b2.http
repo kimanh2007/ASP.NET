@@ -1,0 +1,6 @@
+@DangNuKimAnh_2122110482_b2_HostAddress = http://localhost:5124
+
+GET {{DangNuKimAnh_2122110482_b2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

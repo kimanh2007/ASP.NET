@@ -1,0 +1,20 @@
+# Bỏ qua thư mục build
+bin/
+obj/
+
+# Bỏ qua file user setting
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Bỏ qua thư mục publish
+publish/
+*.Publish.xml
+
+# Bỏ qua file tạm
+*.log
+*.tmp
+
+# Bỏ qua thư mục VS Code (nếu dùng)
+.vscode/
